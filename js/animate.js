@@ -1,9 +1,10 @@
 //动画函数，可设置元素任意样式属性的连续变化
-function animate(element, json, time=20,fn) 
+function animate(element, json, time=20,fn,) 
 {
   clearInterval(element.timeId); //防止定时器叠加
   element.timeId = setInterval(function () 
   {
+    
     var flag = true; //为清理定时器做准备
     for (var attr in json) 
     {

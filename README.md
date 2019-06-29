@@ -11,4 +11,4 @@ animate(element,json,time,fn)
 - fn: （可选）回调函数
 ## 下载&安装
 #### 使用方法：在html中引入animate.js文件
-#### 下载地址：<a href="./js/animate.js" download="animate.js">点击下载</a>
+#### 下载地址：<a href="./js/animate.js" download="animate.js">右键链接另存为</a>
